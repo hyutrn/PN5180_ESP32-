@@ -21,7 +21,6 @@ Key Improvements:
 - Periodic Hardware Reset to ensure clean state broadcasting.
 ### File Structure
 - PN5180-NFC-Reader/
-- │
 - ├── src/
 - │   └── PN5180_reader.ino  # Main
 - ├── inc/
