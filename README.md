@@ -44,6 +44,7 @@ MISO	        GPIO 19
 VCC	          3.3V
 GND	          GND
 - **Note**: Never swap NSS pin (16) and Busy pin (5)
+- <img width="3487" height="2092" alt="esp32-pn5180" src="https://github.com/user-attachments/assets/7ba69ed8-1a05-4073-891c-9e414e22d4fa" />
 ## Software Installation
 Install Arduino IDE (version 1.8.x or later)
 Install PN5180 Library via Arduino Library Manager:
