@@ -33,15 +33,15 @@ Hardware Requirements
 - NFC Cards/Tags (ISO14443A compliant: Mifare Classic, Ultralight, NTAG)
 
 Wiring Diagram
-PN5180 Pin	  ESP32 Pin
-NSS	          GPIO 16
-BUSY	        GPIO 5
-RST	          GPIO 17
-SCK	          GPIO 18
-MOSI	        GPIO 23
-MISO	        GPIO 19
-VCC	          3.3V
-GND	          GND
+- PN5180 Pin	|   ESP32 Pin
+-     NSS     |    GPIO 16
+-     BUSY    |    GPIO 5
+-     RST     |    GPIO 17
+-     SCK     |    GPIO 18
+-     MOSI    |    GPIO 23
+-     MISO    |    GPIO 19
+-     VCC     |    3.3V
+-     GND     |    GND
 - **Note**: Never swap NSS pin (16) and Busy pin (5)
 - <img width="3487" height="2092" alt="esp32-pn5180" src="https://github.com/user-attachments/assets/7ba69ed8-1a05-4073-891c-9e414e22d4fa" />
 ## Software Installation
